@@ -32,7 +32,7 @@ A aplicação permite organizar um sorteio de amigo secreto de forma digital, on
 - **JavaScript (ES6+)** - Lógica de programação e interatividade
 - **Google Fonts** - Tipografia (Inter & Merriweather)
 
-## 🎮 Como Usar
+## Como Usar
 
 1. **Adicione os Participantes**:
    - Digite o nome de um participante no campo de entrada
