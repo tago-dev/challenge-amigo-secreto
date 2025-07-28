@@ -12,7 +12,7 @@
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do **Challenge Amigo Secreto** do curso "Praticando Lógica de Programação" da **ONE (Oracle Next Education)** em parceria com a **Alura**. a
+Este projeto foi desenvolvido como parte do **Challenge Amigo Secreto** do curso "Praticando Lógica de Programação" da **ONE (Oracle Next Education)** em parceria com a **Alura**.
 
 A aplicação permite organizar um sorteio de amigo secreto de forma digital, onde os usuários podem adicionar nomes de participantes e realizar o sorteio de forma aleatória e divertida.
 
